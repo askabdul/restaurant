@@ -404,7 +404,7 @@ nav ul li a {
 
 /*--------------- hero section starts here---------- */
 .hero {
-  background-image: url("../image/hero.jpeg");
+  background-image: url("./image/hero.jpeg");
   background-size: cover;
   background-attachment: fixed;
 
@@ -559,7 +559,7 @@ nav ul li a {
 }
 
 .chef_choice {
-  background-image: url("../image/main.jpeg");
+  background-image: url("./image/main.jpeg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
